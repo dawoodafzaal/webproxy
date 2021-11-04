@@ -1,6 +1,3 @@
-//CPSC 441 - Assignment #1, Dawood Afzaal (UCID: 30063067)
-//DUE: October 1st, 2021
-
 #include <stdio.h>
 #include <ctype.h>
 #include <stdlib.h>
